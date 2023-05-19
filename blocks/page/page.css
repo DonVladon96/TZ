@@ -9,20 +9,19 @@
   width: 748px;
   padding-right: 48px;
   padding-bottom: 48px;
-  
+
 }
 
 
 @media screen and (max-width: 768px) {
-    .page {
-
-    }
+.page {
+  width: 608px;
+ }
 }
 
 @media screen and (max-width: 320px) {
-    .page {
+.page {
 
-
-    }
+ }
 }
 

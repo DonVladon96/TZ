@@ -1,0 +1,33 @@
+.header__subtitle{
+  width: 355px;
+  height: 28px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  /* identical to box height, or 117% */
+  font-feature-settings: 'liga' off;
+  color: #111111;
+  margin-top: 12px;
+  margin-bottom: 28px;
+
+}
+
+@media screen and (min-width: 769px) {
+  .header__subtitle {
+    display: none;
+   }
+  }
+
+@media screen and (max-width: 768px) {
+  .header__subtitle {
+
+   }
+  }
+
+  @media screen and (max-width: 320px) {
+  .header__subtitle {
+
+   }
+  }
