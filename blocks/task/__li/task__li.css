@@ -1,0 +1,7 @@
+.task__li{
+margin-bottom: 16px;
+}
+
+.task__li:last-child{
+margin: 0;
+}

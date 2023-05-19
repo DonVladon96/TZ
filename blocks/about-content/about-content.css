@@ -1,6 +1,9 @@
 .about-content__list{
-  border: solid 1px red;
   list-style-type: none;
   padding: 0;
   margin: 0;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  column-gap: 12px;
+  margin-bottom: 48px;
 }

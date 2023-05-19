@@ -1,0 +1,14 @@
+.footer__read-more{
+  width: 147px;
+  height: 20px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height, or 133% */
+  text-align: right;
+  color: #597DB3;
+  cursor: pointer;
+  border-bottom: 1px solid rgba(89, 125, 179, 1)
+}

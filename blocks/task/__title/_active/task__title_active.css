@@ -1,0 +1,5 @@
+.task__title_active{
+  color: #597DB3;
+  border-bottom: 1px solid rgb(51, 111, 238, 0.2) ;
+  cursor: pointer;
+}

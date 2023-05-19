@@ -1,0 +1,13 @@
+.footer__author{
+  width: 233px;
+  height: 20px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 20px;
+  /* identical to box height, or 133% */
+  text-align: center;
+  /* text-secondary */
+  color: #808C9E;
+}

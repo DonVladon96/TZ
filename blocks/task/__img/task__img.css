@@ -1,0 +1,12 @@
+.task__img{
+  background-image: url(../../../images/Vector\ 745.png);
+  background-position: 50% 50%;
+  background-size: 20px 8px;
+  background-repeat: no-repeat;
+  width: 20px;
+  height: 8px;
+  color: rgba(17, 17, 17, 1);
+  height: 32px;
+  margin-left: 8px;
+  margin-right: 8px;
+}

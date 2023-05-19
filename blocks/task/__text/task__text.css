@@ -1,8 +1,12 @@
-.about-content__span{
+.task__text{
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
   font-size: 17px;
   line-height: 28px;
-  color: #808C9E;
+  /* or 165% */
+  color: #333333;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
 }

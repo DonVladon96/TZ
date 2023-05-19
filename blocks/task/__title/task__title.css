@@ -1,0 +1,15 @@
+@supports (font-feature-settings: 'liga' off){
+  .task__title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 32px;
+    /* identical to box height, or 114% */
+    color: #333333;
+    margin: 0;
+    margin-bottom: 16px;
+    padding: 0;
+  }
+}
+
