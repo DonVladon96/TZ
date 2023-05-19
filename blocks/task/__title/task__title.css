@@ -21,3 +21,13 @@
 }
 }
 
+@media screen and (max-width: 320px) {
+.task__title{
+  font-size: 21px;
+  line-height: 28px;
+  margin-bottom: 12px;
+}
+}
+
+
+

@@ -8,3 +8,30 @@
   }
 }
 
+@media screen and (max-width: 768px) {
+  .task:nth-child(5) {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  .task:nth-child(6) {
+    display: none;
+  }
+}
+
+
+
+@media screen and (max-width: 320px) {
+.task{
+  margin-bottom: 36px;
+}
+
+.task:nth-child(2) {
+  margin-bottom: 12px;
+  }
+
+.task:nth-child(6) {
+  margin-bottom: 28px;
+}
+}

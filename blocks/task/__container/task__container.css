@@ -1,4 +1,15 @@
 .task__container{
   display: flex;
-  
+
 }
+
+@media screen and (max-width: 320px) {
+  .task__container{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: baseline;
+}
+}
+
+

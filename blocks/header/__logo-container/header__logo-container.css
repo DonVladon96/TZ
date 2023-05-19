@@ -9,3 +9,10 @@
   background: #FFDD2D;
   margin-bottom: 12px;
 }
+
+@media screen and (max-width: 320px) {
+  .header__logo-container{
+    margin-bottom: 16px;
+  }
+}
+

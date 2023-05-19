@@ -8,6 +8,7 @@
 @import url(../blocks/header/__container/header__container.css);
 @import url(../blocks/body/body.css);
 @import url(../blocks/main-content/main-content.css);
+@import url(../blocks/about-content/__list/about-content__list.css);
 @import url(../blocks/about-content/about-content.css);
 @import url(../blocks/about-content/__projects/about-content__projects.css);
 @import url(../blocks/about-content/__list/about-content__list.css);

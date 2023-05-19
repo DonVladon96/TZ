@@ -15,19 +15,23 @@
 }
 
 @media screen and (min-width: 769px) {
-  .header__subtitle {
+.header__subtitle {
     display: none;
-   }
   }
+}
 
-@media screen and (max-width: 768px) {
+
+@media screen and (max-width: 320px) {
   .header__subtitle {
-
-   }
-  }
-
-  @media screen and (max-width: 320px) {
-  .header__subtitle {
-
-   }
-  }
+  max-width: 233px;
+  min-height: 56px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  font-feature-settings: 'liga' off;
+  margin-bottom: 12px;
+  margin-top: 0;
+}
+}

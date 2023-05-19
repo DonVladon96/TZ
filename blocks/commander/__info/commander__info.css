@@ -10,5 +10,12 @@
   line-height: 20px;
   /* or 133% */
   color: rgba(128, 140, 158, 1)
-
 }
+
+@media screen and (max-width: 320px) {
+.commander__info{
+  width: 160px;
+  height: 80px;
+}
+}
+

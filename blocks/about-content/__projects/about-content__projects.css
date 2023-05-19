@@ -18,3 +18,13 @@
   margin-bottom: 8px;
 }
 }
+
+@media screen and (max-width: 320px) {
+.about-content__projects {
+  font-size: 15px;
+  line-height: 24px;
+}
+}
+
+
+

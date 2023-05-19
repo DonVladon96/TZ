@@ -20,18 +20,8 @@
 @media screen and (max-width: 320px) {
 .body {
 
+  padding-left: 16px;
+  padding-right: 16px;
 }
 }
 
-
-/* @media screen and (max-width: 768px) {
-  .body {
-
-  }
-  }
-
-  @media screen and (max-width: 320px) {
-  .body {
-
-  }
-  } */

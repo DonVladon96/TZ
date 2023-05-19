@@ -20,3 +20,10 @@
   display: none;
 }
 }
+
+@media screen and (max-width: 320px) {
+.about-content__span:last-child{
+  display: list-item;
+}
+}
+
