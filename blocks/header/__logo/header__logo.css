@@ -1,0 +1,12 @@
+.header__logo{
+  width: 74px;
+  height: 20px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 20px;
+  /* identical to box height, or 154% */
+  color: #333333;
+  margin: 0;
+}

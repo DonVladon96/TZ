@@ -1,0 +1,12 @@
+.about-content__projects{
+  border: solid 1px blue;
+  width: 227px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 28px;
+  /* identical to box height, or 165% */
+  /* text-secondary */
+  color: #808C9E;
+}

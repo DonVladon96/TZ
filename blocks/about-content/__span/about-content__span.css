@@ -1,0 +1,11 @@
+.about-content__span{
+  width: 179px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 28px;
+  /* identical to box height, or 165% */
+  /* text-secondary */
+  color: #808C9E;
+}

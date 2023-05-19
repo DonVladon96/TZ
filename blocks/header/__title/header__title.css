@@ -1,0 +1,16 @@
+@supports (font-feature-settings: 'liga' off){
+  .header__title{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    /* or 122% */
+    font-feature-settings: 'liga' off;
+    /* text-heading */
+    color: #111111;
+    margin: 0;
+    width: 496px;
+  }
+}
+

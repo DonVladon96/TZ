@@ -1,0 +1,12 @@
+.body{
+  margin: 0 auto;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 200px;
+  /* padding-right: 616px; */
+  max-width: 1280px;
+  background: #FFFFFF;
+  box-sizing: border-box;
+  border: solid 2px red;
+  width: 100%;
+}
