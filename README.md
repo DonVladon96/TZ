@@ -13,7 +13,7 @@
 **Figma**
 
 * [Ссылка на макет в Figma](https://www.figma.com/file/Ju3NAn49liJ3w0qz9i9wnZ/Test.Verstka?type=design&node-id=0-1)
-
+* [Ссылка на сайт](https://donvladon96.github.io/TZ/)
 
 
 Удачи!
